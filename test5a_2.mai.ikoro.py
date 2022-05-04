@@ -15,7 +15,13 @@ users = [
         "password": "joplin"
     }
 ]
-
+def get_user(username, password):
+    for user in users:
+        if user["name"] == username and user ["password"] == password:
+            return user
+        return None
+    def is_student(x):
+        return x['type'] == 'Student'
 
 def show_offers(username, password):
     legend = False

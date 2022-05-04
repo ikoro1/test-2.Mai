@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58997e6b-9551-44c4-b05d-fe9ace92a451" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/deutsch_to_englisch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odd_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tast_1_part3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5_2.mai.ikoro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5a_2.mai.ikoro.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tes4_2.mai.ikoro.py" beforeDir="false" afterPath="$PROJECT_DIR$/tes4_2.mai.ikoro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odd_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/odd_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test5_2.mai.ikoro.py" beforeDir="false" afterPath="$PROJECT_DIR$/test5_2.mai.ikoro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test5_2.mai.ikoro">
+  <component name="RunManager" selected="Python.odd_numbers">
     <configuration name="deutsch_to_englisch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test-2.Mai" />
       <option name="INTERPRETER_OPTIONS" value="" />
